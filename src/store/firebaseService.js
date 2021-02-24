@@ -3,6 +3,14 @@ require("firebase/firestore");
 
 var firebaseConfig = {
 
+  apiKey: "AIzaSyDM2zGNgTtyx4UXo3w6bor-gisxJSSC2-M",
+    authDomain: "yup-validations.firebaseapp.com",
+    projectId: "yup-validations",
+    storageBucket: "yup-validations.appspot.com",
+    messagingSenderId: "405771928078",
+    appId: "1:405771928078:web:2100d8cdc747edd155725f",
+    measurementId: "G-W1SWX5JBZ4"
+
 };
 
 // Ensure that you do not login twice.
